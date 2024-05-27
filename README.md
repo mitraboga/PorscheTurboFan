@@ -28,7 +28,7 @@ In Autodesk Fusion 360, I utilized a variety of tools and features to create and
 - **3D Extrude**: To transform 2D sketches into 3D models by adding depth.
 - **Revolve**: Used for creating symmetrical components by revolving a profile around an axis.
 - **Pipe**: To create tubular structures, which was essential for parts like the tire treads.
-- **Chamfer**: For adding beveled edges to components, improving both aesthetics and functionality.
+- **Chamfer**: For adding bevelled edges to components, improving both aesthetics and functionality.
 - **Fillet**: To smooth out sharp edges and corners, enhancing the visual appeal and strength of the model.
 
 ## Appearance and Materials
@@ -49,7 +49,8 @@ Using Fusion 360's built-in animation feature, I created a dynamic showcase of t
 
 ## Tools Used
 
-- **Autodesk Fusion 360**: For designing, modeling, and animating the components and the final assembly.
+- **Autodesk Fusion 360**: For designing, modelling, and animating the components and the final assembly.
+- **DaVinci Resolve**: For editing the descriptive/explanatory YouTube video.
 
 ## Conclusion
 
