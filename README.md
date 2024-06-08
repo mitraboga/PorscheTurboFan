@@ -1,6 +1,5 @@
 # Porsche TurboFan Wheel Model
     #### Video Demo:  <https://youtu.be/m8qcIzR_kCo>
-    #### Run-Through:  <https://youtu.be/m8qcIzR_kCo>
 
 ## Project Description
 
