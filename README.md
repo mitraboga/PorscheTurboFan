@@ -1,7 +1,7 @@
 # Porsche TurboFan Wheel Model
     #### Video Demo:  <[https://youtu.be/m8qcIzR_kCo](https://youtu.be/w2vNnuaIazw?si=o3Jg5ZuEFvnnqDw7)>
 
-## 📜 Project Description
+## 📃 Project Description
 
 This project showcases a detailed 3D model of the iconic Porsche TurboFan wheel, meticulously crafted using Autodesk Fusion 360. The model consists of five separate components:
 
