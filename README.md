@@ -1,7 +1,7 @@
 # Porsche TurboFan Wheel Model
     #### Video Demo:  <[https://youtu.be/m8qcIzR_kCo](https://youtu.be/w2vNnuaIazw?si=o3Jg5ZuEFvnnqDw7)>
 
-## Project Description
+## 📜 Project Description
 
 This project showcases a detailed 3D model of the iconic Porsche TurboFan wheel, meticulously crafted using Autodesk Fusion 360. The model consists of five separate components:
 
@@ -13,7 +13,7 @@ This project showcases a detailed 3D model of the iconic Porsche TurboFan wheel,
 
 Each component was individually designed and then assembled to create a complete and accurate representation of the TurboFan wheel.
 
-## Components Breakdown
+## ⛓️‍💥 Components Breakdown
 
 - **Michelin Race Car Tire**: Modeled to replicate the high-performance tire used in professional racing.
 - **TurboFan Rim**: Designed to capture the unique aerodynamic and aesthetic features of the TurboFan style.
@@ -21,7 +21,7 @@ Each component was individually designed and then assembled to create a complete
 - **Brake Pad**: Modeled to fit seamlessly within the wheel assembly, ensuring functional and visual accuracy.
 - **Porsche Brake Caliper**: Designed to add to the model's realism and functional accuracy.
 
-## Design and Modeling Tools
+## 🎨 Design and Modelling Tools
 
 In Autodesk Fusion 360, I utilized a variety of tools and features to create and perfect the components of the TurboFan wheel:
 
@@ -32,7 +32,7 @@ In Autodesk Fusion 360, I utilized a variety of tools and features to create and
 - **Chamfer**: For adding bevelled edges to components, improving both aesthetics and functionality.
 - **Fillet**: To smooth out sharp edges and corners, enhancing the visual appeal and strength of the model.
 
-## Appearance and Materials
+## 🖼️ Appearance and Materials
 
 To enhance the realism and visual quality of the model, I applied various appearance features in Fusion 360:
 
@@ -44,17 +44,33 @@ To enhance the realism and visual quality of the model, I applied various appear
 - **Matte Blue Paint**: For a smooth, non-reflective surface on certain components.
 - **Red Glossy Paint**: To add a vibrant, eye-catching finish to selected parts.
 
-## Assembly and Animation
+## ⚙️ Assembly and Animation
 
 Using Fusion 360's built-in animation feature, I created a dynamic showcase of the wheel assembly process. This animation visually demonstrates the step-by-step assembly of all five components, highlighting the precise engineering and design considerations taken during the project. The animation effectively conveys the intricate details and the final integration of each part into the fully assembled TurboFan wheel.
 
-## Tools Used
+## 🛠️ Tools Used
 
 - **Autodesk Fusion 360**: For designing, modelling, and animating the components and the final assembly.
 - **DaVinci Resolve**: For editing the descriptive/explanatory YouTube video.
 
-## Conclusion
+## ✒️ Conclusion
 
 This project not only demonstrates advanced mechanical design skills but also the ability to use modern CAD tools to create, assemble, and animate complex models. The Porsche TurboFan wheel model stands as a testament to precision engineering and attention to detail.
 ---
 Feel free to reach out for any queries or further details about the project.
+---
+## 👤 Author
+
+<p align="center">
+  <b style="font-size:18px;">Mitra Boga</b><br/><br/>
+
+  <!-- LinkedIn: true blue label + lighter-blue username block -->
+  <a href="https://www.linkedin.com/in/bogamitra/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-bogamitra-4DA3FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+
+  <!-- X: near-black label + darker-gray username block (dark-mode friendly) -->
+  <a href="https://x.com/techtraboga" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-@techtraboga-3A3F45?style=for-the-badge&logo=x&logoColor=white&labelColor=111418" />
+  </a>
+</p>
