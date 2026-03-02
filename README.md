@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
+<p align="center">
+  <a href="https://mitraboga.github.io/CloudCostCalculator/" target="_blank" rel="noopener noreferrer">
+    <img src="Porsche_TurboFan_Preview.gif" width="95%" alt="Live Cloud Cost Dashboard Preview"/>
+  </a>
+</p>
+
 ## 📃 Project Description
 
 This project showcases a detailed 3D model of the iconic Porsche TurboFan wheel, meticulously crafted using Autodesk Fusion 360. The model consists of five separate components:
