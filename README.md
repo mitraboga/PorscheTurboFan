@@ -1,5 +1,20 @@
-# Porsche TurboFan Wheel Model
-    #### Video Demo:  <[https://youtu.be/m8qcIzR_kCo](https://youtu.be/w2vNnuaIazw?si=o3Jg5ZuEFvnnqDw7)>
+<h1 align="center">Porsche TurboFan Wheel Model</h1>
+<h3 align="center">Autodesk Fusion360 Mechanical Engineering Project</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?logo=telegram&logoColor=white" alt="Telegram Bot API" />
+  <img src="https://img.shields.io/badge/python--telegram--bot-v20-2CA5E0" alt="python-telegram-bot" />
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/APScheduler-Task%20Scheduling-6A5ACD" alt="APScheduler" />
+  <img src="https://img.shields.io/badge/GitHub-REST%20API-181717?logo=github" alt="GitHub API" />
+  <img src="https://img.shields.io/badge/Render-Cloud%20Deployment-46E3B7?logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Webhook%20%2F%20Polling-Event%20Driven-8A2BE2" alt="Webhook / Polling" />
+  <img src="https://img.shields.io/badge/Automation-Daily%20Commits-FF6F00" alt="Automation" />
+  <img src="https://img.shields.io/badge/Gamification-Streak%20Engine-DC143C" alt="Gamification" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License" />
+</p>
+
 
 ## 📃 Project Description
 
