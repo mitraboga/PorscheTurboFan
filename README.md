@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/Engineering%20Visualization-Rendering%20%26%20Simulation-8A2BE2" alt="Engineering Visualization" />
   <img src="https://img.shields.io/badge/C-Programming-A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>>
-
+</p>
 
 ## 📃 Project Description
 
