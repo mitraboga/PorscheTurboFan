@@ -1,19 +1,15 @@
-<h1 align="center">Porsche TurboFan Wheel Model</h1>
+<h1 align="center">🏎️ Porsche TurboFan Wheel Model 💨</h1>
 <h3 align="center">Autodesk Fusion360 Mechanical Engineering Project</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?logo=telegram&logoColor=white" alt="Telegram Bot API" />
-  <img src="https://img.shields.io/badge/python--telegram--bot-v20-2CA5E0" alt="python-telegram-bot" />
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/APScheduler-Task%20Scheduling-6A5ACD" alt="APScheduler" />
-  <img src="https://img.shields.io/badge/GitHub-REST%20API-181717?logo=github" alt="GitHub API" />
-  <img src="https://img.shields.io/badge/Render-Cloud%20Deployment-46E3B7?logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Webhook%20%2F%20Polling-Event%20Driven-8A2BE2" alt="Webhook / Polling" />
-  <img src="https://img.shields.io/badge/Automation-Daily%20Commits-FF6F00" alt="Automation" />
-  <img src="https://img.shields.io/badge/Gamification-Streak%20Engine-DC143C" alt="Gamification" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License" />
-</p>
+  <img src="https://img.shields.io/badge/Fusion%20360-CAD-orange?logo=autodesk&logoColor=white" alt="Fusion 360" />
+  <img src="https://img.shields.io/badge/Autodesk-Design%20Suite-000000?logo=autodesk&logoColor=white" alt="Autodesk" />
+  <img src="https://img.shields.io/badge/CAD-3D%20Modeling-1E90FF" alt="CAD" />
+  <img src="https://img.shields.io/badge/Mechanical%20Engineering-Design%20%26%20Prototyping-228B22" alt="Mechanical Engineering" />
+  <img src="https://img.shields.io/badge/Engineering%20Visualization-Rendering%20%26%20Simulation-8A2BE2" alt="Engineering Visualization" />
+  <img src="https://img.shields.io/badge/C-Programming-A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>>
 
 
 ## 📃 Project Description
