@@ -11,12 +11,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-<p align="center">
-  <a href="https://mitraboga.github.io/CloudCostCalculator/" target="_blank" rel="noopener noreferrer">
-    <img src="Porsche_TurboFan_Preview.gif" width="95%" alt="Live Cloud Cost Dashboard Preview"/>
-  </a>
-</p>
-
 ## 📃 Project Description
 
 This project showcases a detailed 3D model of the iconic Porsche TurboFan wheel, meticulously crafted using Autodesk Fusion 360. The model consists of five separate components:
@@ -69,70 +63,6 @@ This project followed a clean **Orthographic → CAD** workflow:
 - Finally, I translated the sketches into 3D geometry using core CAD operations (extrude/revolve/fillet/chamfer) and exported the results for documentation and sharing.
 
 > Tip: Put your files in the exact folders shown below so the dropdown previews work instantly.
-
-### Main Models
-
-<details>
-  <summary><b>1) TurboFan Rim — CAD Model</b></summary>
-  <br/>
-  <img src="assets/models/Model_1_TurboFan_Rim.png" width="100%" alt="TurboFan Rim CAD Model" />
-</details>
-
-<details>
-  <summary><b>2) Porsche Hub Cap — CAD Model</b></summary>
-  <br/>
-  <img src="assets/models/Model_2_Porsche_Hub_Cap.png" width="100%" alt="Porsche Hub Cap CAD Model" />
-</details>
-
-<details>
-  <summary><b>3) Michelin Tire — CAD Model</b></summary>
-  <br/>
-  <img src="assets/models/Model_3_Michelin_Tire.png" width="100%" alt="Michelin Tire CAD Model" />
-</details>
-
-<details>
-  <summary><b>4) Brake Caliper — CAD Model</b></summary>
-  <br/>
-  <img src="assets/models/Model_4_Brake_Caliper.png" width="100%" alt="Brake Caliper CAD Model" />
-</details>
-
-<details>
-  <summary><b>5) Brake Pads — CAD Model</b></summary>
-  <br/>
-  <img src="assets/models/Model_5_Brake_Pads.png" width="100%" alt="Brake Pads CAD Model" />
-</details>
-
-### Orthographic Drawings
-
-<details>
-  <summary><b>1) TurboFan Rim — Orthographic Drawing</b></summary>
-  <br/>
-  <img src="assets/orthographic/Drawing_1_TurboFan_Rim.jpg" width="100%" alt="TurboFan Rim Orthographic Drawing" />
-</details>
-
-<details>
-  <summary><b>2) Michelin Tire — Orthographic Drawing</b></summary>
-  <br/>
-  <img src="assets/orthographic/Drawing_2_Michelin_Tire.jpg" width="100%" alt="Michelin Tire Orthographic Drawing" />
-</details>
-
-<details>
-  <summary><b>3) Brake Pad — Orthographic Drawing</b></summary>
-  <br/>
-  <img src="assets/orthographic/Drawing_3_Brake_Pad.jpg" width="100%" alt="Brake Pad Orthographic Drawing" />
-</details>
-
-<details>
-  <summary><b>4) Porsche Hub Cap — Orthographic Drawing</b></summary>
-  <br/>
-  <img src="assets/orthographic/Drawing_4_Porsche_Hub_Cap.jpg" width="100%" alt="Porsche Hub Cap Orthographic Drawing" />
-</details>
-
-<details>
-  <summary><b>5) Brake Caliper — Orthographic Drawing</b></summary>
-  <br/>
-  <img src="assets/orthographic/Drawing_5_Brake_Caliper.jpg" width="100%" alt="Brake Caliper Orthographic Drawing" />
-</details>
 
 ## ⚙️ Assembly and Animation
 
