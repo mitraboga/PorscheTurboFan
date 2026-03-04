@@ -1,7 +1,23 @@
-# Porsche TurboFan Wheel Model
-    #### Video Demo:  <https://youtu.be/m8qcIzR_kCo>
+<h1 align="center">🏎️ Porsche TurboFan Wheel Model 💨</h1>
+<h3 align="center">Autodesk Fusion360 Mechanical Engineering Project</h3>
 
-## Project Description
+<p align="center">
+  <img src="https://img.shields.io/badge/Fusion%20360-CAD-orange?logo=autodesk&logoColor=white" alt="Fusion 360" />
+  <img src="https://img.shields.io/badge/Autodesk-Design%20Suite-000000?logo=autodesk&logoColor=white" alt="Autodesk" />
+  <img src="https://img.shields.io/badge/CAD-3D%20Modeling-1E90FF" alt="CAD" />
+  <img src="https://img.shields.io/badge/Mechanical%20Engineering-Design%20%26%20Prototyping-228B22" alt="Mechanical Engineering" />
+  <img src="https://img.shields.io/badge/Engineering%20Visualization-Rendering%20%26%20Simulation-8A2BE2" alt="Engineering Visualization" />
+  <img src="https://img.shields.io/badge/C-Programming-A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+<p align="center">
+  <a href="https://mitraboga.github.io/CloudCostCalculator/" target="_blank" rel="noopener noreferrer">
+    <img src="Porsche_TurboFan_Preview.gif" width="95%" alt="Live Cloud Cost Dashboard Preview"/>
+  </a>
+</p>
+
+## 📃 Project Description
 
 This project showcases a detailed 3D model of the iconic Porsche TurboFan wheel, meticulously crafted using Autodesk Fusion 360. The model consists of five separate components:
 
@@ -13,7 +29,7 @@ This project showcases a detailed 3D model of the iconic Porsche TurboFan wheel,
 
 Each component was individually designed and then assembled to create a complete and accurate representation of the TurboFan wheel.
 
-## Components Breakdown
+## ⛓️‍💥 Components Breakdown
 
 - **Michelin Race Car Tire**: Modeled to replicate the high-performance tire used in professional racing.
 - **TurboFan Rim**: Designed to capture the unique aerodynamic and aesthetic features of the TurboFan style.
@@ -21,7 +37,7 @@ Each component was individually designed and then assembled to create a complete
 - **Brake Pad**: Modeled to fit seamlessly within the wheel assembly, ensuring functional and visual accuracy.
 - **Porsche Brake Caliper**: Designed to add to the model's realism and functional accuracy.
 
-## Design and Modeling Tools
+## 🎨 Design and Modelling Tools
 
 In Autodesk Fusion 360, I utilized a variety of tools and features to create and perfect the components of the TurboFan wheel:
 
@@ -32,7 +48,7 @@ In Autodesk Fusion 360, I utilized a variety of tools and features to create and
 - **Chamfer**: For adding bevelled edges to components, improving both aesthetics and functionality.
 - **Fillet**: To smooth out sharp edges and corners, enhancing the visual appeal and strength of the model.
 
-## Appearance and Materials
+## 🖼️ Appearance and Materials
 
 To enhance the realism and visual quality of the model, I applied various appearance features in Fusion 360:
 
@@ -44,17 +60,107 @@ To enhance the realism and visual quality of the model, I applied various appear
 - **Matte Blue Paint**: For a smooth, non-reflective surface on certain components.
 - **Red Glossy Paint**: To add a vibrant, eye-catching finish to selected parts.
 
-## Assembly and Animation
+## 📦 Model Exports
+
+This project followed a clean **Orthographic → CAD** workflow:
+
+- First, I created **dimensioned orthographic drawings** (front/top/side references).
+- Then I used those drawings as the **source of truth** to build fully-constrained sketches in Fusion 360.
+- Finally, I translated the sketches into 3D geometry using core CAD operations (extrude/revolve/fillet/chamfer) and exported the results for documentation and sharing.
+
+> Tip: Put your files in the exact folders shown below so the dropdown previews work instantly.
+
+### Main Models
+
+<details>
+  <summary><b>1) TurboFan Rim — CAD Model</b></summary>
+  <br/>
+  <img src="assets/models/Model_1_TurboFan_Rim.png" width="100%" alt="TurboFan Rim CAD Model" />
+</details>
+
+<details>
+  <summary><b>2) Porsche Hub Cap — CAD Model</b></summary>
+  <br/>
+  <img src="assets/models/Model_2_Porsche_Hub_Cap.png" width="100%" alt="Porsche Hub Cap CAD Model" />
+</details>
+
+<details>
+  <summary><b>3) Michelin Tire — CAD Model</b></summary>
+  <br/>
+  <img src="assets/models/Model_3_Michelin_Tire.png" width="100%" alt="Michelin Tire CAD Model" />
+</details>
+
+<details>
+  <summary><b>4) Brake Caliper — CAD Model</b></summary>
+  <br/>
+  <img src="assets/models/Model_4_Brake_Caliper.png" width="100%" alt="Brake Caliper CAD Model" />
+</details>
+
+<details>
+  <summary><b>5) Brake Pads — CAD Model</b></summary>
+  <br/>
+  <img src="assets/models/Model_5_Brake_Pads.png" width="100%" alt="Brake Pads CAD Model" />
+</details>
+
+### Orthographic Drawings
+
+<details>
+  <summary><b>1) TurboFan Rim — Orthographic Drawing</b></summary>
+  <br/>
+  <img src="assets/orthographic/Drawing_1_TurboFan_Rim.jpg" width="100%" alt="TurboFan Rim Orthographic Drawing" />
+</details>
+
+<details>
+  <summary><b>2) Michelin Tire — Orthographic Drawing</b></summary>
+  <br/>
+  <img src="assets/orthographic/Drawing_2_Michelin_Tire.jpg" width="100%" alt="Michelin Tire Orthographic Drawing" />
+</details>
+
+<details>
+  <summary><b>3) Brake Pad — Orthographic Drawing</b></summary>
+  <br/>
+  <img src="assets/orthographic/Drawing_3_Brake_Pad.jpg" width="100%" alt="Brake Pad Orthographic Drawing" />
+</details>
+
+<details>
+  <summary><b>4) Porsche Hub Cap — Orthographic Drawing</b></summary>
+  <br/>
+  <img src="assets/orthographic/Drawing_4_Porsche_Hub_Cap.jpg" width="100%" alt="Porsche Hub Cap Orthographic Drawing" />
+</details>
+
+<details>
+  <summary><b>5) Brake Caliper — Orthographic Drawing</b></summary>
+  <br/>
+  <img src="assets/orthographic/Drawing_5_Brake_Caliper.jpg" width="100%" alt="Brake Caliper Orthographic Drawing" />
+</details>
+
+## ⚙️ Assembly and Animation
 
 Using Fusion 360's built-in animation feature, I created a dynamic showcase of the wheel assembly process. This animation visually demonstrates the step-by-step assembly of all five components, highlighting the precise engineering and design considerations taken during the project. The animation effectively conveys the intricate details and the final integration of each part into the fully assembled TurboFan wheel.
 
-## Tools Used
+## 🛠️ Tools Used
 
 - **Autodesk Fusion 360**: For designing, modelling, and animating the components and the final assembly.
 - **DaVinci Resolve**: For editing the descriptive/explanatory YouTube video.
 
-## Conclusion
+## ✒️ Conclusion
 
 This project not only demonstrates advanced mechanical design skills but also the ability to use modern CAD tools to create, assemble, and animate complex models. The Porsche TurboFan wheel model stands as a testament to precision engineering and attention to detail.
 ---
 Feel free to reach out for any queries or further details about the project.
+---
+## 👤 Author
+
+<p align="center">
+  <b style="font-size:18px;">Mitra Boga</b><br/><br/>
+
+  <!-- LinkedIn: true blue label + lighter-blue username block -->
+  <a href="https://www.linkedin.com/in/bogamitra/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-bogamitra-4DA3FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+
+  <!-- X: near-black label + darker-gray username block (dark-mode friendly) -->
+  <a href="https://x.com/techtraboga" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-@techtraboga-3A3F45?style=for-the-badge&logo=x&logoColor=white&labelColor=111418" />
+  </a>
+</p>
